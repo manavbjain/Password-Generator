@@ -1,1 +1,1 @@
-# Password-Generator-Using-xkcd-Method
+# Password-Generator
